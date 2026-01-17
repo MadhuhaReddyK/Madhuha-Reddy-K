@@ -1,4 +1,4 @@
-# Hey 👋, I'm Chandra Swapna Dasari!
+# Hey 👋, I'm Madhuha Reddy Komma!
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/MadhuhaReddyK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/madhuha-reddy-komma)
