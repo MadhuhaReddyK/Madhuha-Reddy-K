@@ -19,3 +19,6 @@ My expertise lies in collecting, cleaning and analyzing large datasets using SQL
 - Numpy
 - Pandas
 - Matplotlib
+- Scikit Learn
+- Machine Learning
+- Wed Development
